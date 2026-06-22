@@ -1,0 +1,19 @@
+## Requirements
+
+This project uses the following Python libraries:
+
+* **pandas** – Data cleaning, transformation, and analysis
+* **numpy** – Numerical computations
+* **matplotlib** – Data visualization
+* **seaborn** – Statistical data visualization
+* **openpyxl** – Reading Excel (.xlsx) files
+* **jupyter** – Running notebooks interactively
+* **notebook** – Jupyter Notebook environment
+
+### Installation
+
+Run the following command to install all required packages:
+
+```bash
+pip install -r requirements.txt
+```
